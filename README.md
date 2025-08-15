@@ -36,7 +36,7 @@ A minimalistic library to create fast and reactive Web pages.
   import { html } from 'https://esm.run/uhtml';
 
   document.body.prepend(
-    html`<h1>Hello DOM !</h2>`
+    html`<h1>Hello DOM !</h1>`
   );
 </script>
 ```
